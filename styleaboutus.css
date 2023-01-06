@@ -1,0 +1,145 @@
+body {
+  background-color:white;
+}
+.navbar{
+  background-color:white;
+  height: 83px;
+  width: 100%; 
+}
+.logo{
+ height: 30px;
+ width: 250px;
+  margin-right: 320px;
+  position: relative;
+
+}
+.ssilka {
+  text-decoration: none;
+  margin-right: 50px;
+  color: black;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+} 
+.ssilka1{
+  text-decoration: none;
+  margin-right: 10px;
+  color:black;
+  font-size: small;
+}
+.ssilka2{
+  text-decoration: none;
+  margin-right: 10px;
+  color:black;
+  font-size: medium;
+  padding-left: 20px;
+}
+.ssilka3{
+  text-decoration: none;
+  margin-right: 10px;
+  color:black;
+  font-size: medium;
+  padding-left: 50px;
+}
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+
+
+
+.roza .container{
+  
+  background-image:url(roza.jpeg);
+  height:250px;
+}
+.roza h1{
+  padding-top: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  section{
+    padding-top: 100px;
+    text-align: center;
+    font-family:"Playfair Display",serif ;
+   
+  }
+  .images h2{
+   
+    font-size: 38px;
+    color: #2b2b2b;
+    font-family: "Playfair Display",serif;
+    font-weight: 400;
+  }
+  .images p {
+   
+    color: #6d6a6a;
+  }
+  .footerimage h5 {
+    color:black;
+
+  }
+  .footerimage p{
+    color:black;
+  }
+  .footerimage{
+    height: 400px;
+  }
+  .carousel-item{
+    height: 400px;
+    background-color:white;
+  }
+
+
+
+
+
+
+
+  footer {
+    height: 480px;
+    background-color:rgb(249, 248, 246);
+}
+footer .container{
+    padding-top: 100px;
+}
+hr{
+    text-align: center;
+}
+footer p{
+    font-size: small;
+    color: #8b8b8b;
+}
+footer h5{
+    font-size: 14px;
+    color: #1b1b1b;
+    font-family: Montserrat;
+}
+footer span {
+    color: #8b8b8b;
+}
+
+span{
+    color: #f34f3f;
+}
+h1{
+    color: #0e0e0e;
+    font-size: 50px;
+    font-family: "Playfair Display",serif;
+}
+
+
+  
